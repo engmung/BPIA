@@ -8,7 +8,7 @@ hands = mp_hands.Hands()
 
 def send_data_to_blender(hand_landmarks):
     with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:
-        s.connect(('localhost', 9090))  # Blender가 수신 대기 중인 포트
+        s.connect(('localhost', 9090))  # Blender가 수신 대기 중인 포트l
         for landmark in hand_landmarks:
             # 이진 형식으로 데이터 패킹
             data = struct.pack('fff', landmark.x, landmark.y, landmark.z)
