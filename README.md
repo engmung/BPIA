@@ -19,7 +19,7 @@ Hello, my name is Lee Seunghun, and I am a student majoring in Visual Design at 
 3. For Windows, run the `install.bat` file.
    For macOS, run the `install.sh` script to install the necessary libraries.
 
-4. Run the `udp.py` script.
+4. Run the `udp.py` script.                        
    <img width="800" alt="스크린샷 2024-01-29 091155" src="https://github.com/engmung/BPIA/assets/122682380/1058e25d-c44f-4b1f-9e1a-6d2e7fc6f8d7">
    <img width="800" alt="스크린샷 2024-01-29 091334" src="https://github.com/engmung/BPIA/assets/122682380/e2423aa6-a8ab-40e9-b75d-5650a88cb0db">
 
