@@ -17,7 +17,7 @@ Hello, my name is Lee Seunghun, and I am a student majoring in Visual Design at 
 2. Install the downloaded zip file and extract it.
 
 3. For Windows, run the `install.bat` file.
-   For macOS, run the `install.sh` script to install the necessary libraries.
+   If you are using a Mac, please enter chmod +x install.sh in the terminal to grant execution permission to the script first. After that, use ./install.sh to run the script.
 
 4. Run the `udp.py` script.                        
    <img width="800" alt="스크린샷 2024-01-29 091155" src="https://github.com/engmung/BPIA/assets/122682380/1058e25d-c44f-4b1f-9e1a-6d2e7fc6f8d7">
