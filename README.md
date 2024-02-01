@@ -16,14 +16,17 @@ Hello, my name is Lee Seunghun, and I am a student majoring in Visual Design at 
 
 2. Install the downloaded zip file and extract it.
 
-3. For Windows, run the `install.bat` file.
-   If you are using a Mac, please enter `chmod +x install.sh` in the terminal to grant execution permission to the script first. After that, use `./install.sh1` to run the script.
+3. For Windows, run the `install.bat` file.  
+  
+   For Mac, open the terminal.  
+   Navigate to the script directory with `cd /path/to/directory`.  
+   Execute the script by typing `bash install.sh`.
 
-4. Run the `udp.py` script.                        
+5. Run the `udp.py` script.                        
    <img width="800" alt="스크린샷 2024-01-29 091155" src="https://github.com/engmung/BPIA/assets/122682380/1058e25d-c44f-4b1f-9e1a-6d2e7fc6f8d7">
    <img width="800" alt="스크린샷 2024-01-29 091334" src="https://github.com/engmung/BPIA/assets/122682380/e2423aa6-a8ab-40e9-b75d-5650a88cb0db">
 
-5. Open the Blender file and execute the script inside.
+6. Open the Blender file and execute the script inside.
    Press the spacebar to activate the simulation node.
    <img width="1281" alt="스크린샷 2024-01-29 210202" src="https://github.com/engmung/BPIA/assets/122682380/29fa8b3e-edf5-48bb-8f55-e3ff7a6621c9">
 
