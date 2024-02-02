@@ -26,7 +26,7 @@ Hello, my name is Lee Seunghun, and I am a student majoring in Visual Design at 
      4) Type 'ip3 install-r requirements.txt' in the terminal and enter.  
 
 5. Run the `udp.py` script.  
-   In Windows,  
+   In Windows,
      1)In Windows, type cmd in the folder's address bar and press Enter to open a terminal in that location.  
      2)Type 'python udp.py ' in the terminal and enter  
    In Mac, Type 'python3 udp.py ' in the terminal and enter                        
