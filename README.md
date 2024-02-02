@@ -9,7 +9,7 @@
 Hello, my name is Lee Seunghun, and I am a student majoring in Visual Design at Hongik University. I have a keen interest in 3D design and coding, and I am currently exploring interactive media art. This page has been created to share my insights and methodologies on implementing real-time interactive media art using Blender and Python. If you have any questions or need further information, please feel free to contact me.
 
 # Usage
-
+## YouTube link
 [![Video Label](http://img.youtube.com/vi/S588BwmMzGo/0.jpg)](https://youtu.be/S588BwmMzGo)
 1. First, download Python 3.11 version along with setting up PATH.
    <img width="800" alt="스크린샷 2024-01-29 085752" src="https://github.com/engmung/BPIA/assets/122682380/506ac684-ce20-43be-9fd7-5577e927b255">
