@@ -10,6 +10,8 @@ Hello, my name is Lee Seunghun, and I am a student majoring in Visual Design at 
 
 # Usage
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/S588BwmMzGo" title="blender / 손 모션캡쳐 / udp 통신" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 1. First, download Python 3.11 version along with setting up PATH.
    <img width="800" alt="스크린샷 2024-01-29 085752" src="https://github.com/engmung/BPIA/assets/122682380/506ac684-ce20-43be-9fd7-5577e927b255">
    <img width="800" alt="스크린샷 2024-01-29 091737" src="https://github.com/engmung/BPIA/assets/122682380/aabe2fc4-2b4a-45a4-ae15-e284d61fb7de">
