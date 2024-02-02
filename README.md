@@ -27,8 +27,8 @@ Hello, my name is Lee Seunghun, and I am a student majoring in Visual Design at 
 
 5. Run the `udp.py` script.  
    In Windows,
-     1)In Windows, type cmd in the folder's address bar and press Enter to open a terminal in that location.  
-     2)Type 'python udp.py ' in the terminal and enter  
+     1) In Windows, type cmd in the folder's address bar and press Enter to open a terminal in that location.  
+     2) Type 'python udp.py ' in the terminal and enter  
    In Mac, Type 'python3 udp.py ' in the terminal and enter                        
    <img width="800" alt="스크린샷 2024-01-29 091155" src="https://github.com/engmung/BPIA/assets/122682380/1058e25d-c44f-4b1f-9e1a-6d2e7fc6f8d7">
    <img width="800" alt="스크린샷 2024-01-29 091334" src="https://github.com/engmung/BPIA/assets/122682380/e2423aa6-a8ab-40e9-b75d-5650a88cb0db">
