@@ -34,7 +34,7 @@ Hello, my name is Lee Seunghun, and I am a student majoring in Visual Design at 
      - Type `python3 udp.py` in the terminal and press Enter.
          
    <img width="800" alt="스크린샷 2024-01-29 091155" src="https://github.com/engmung/BPIA/assets/122682380/1058e25d-c44f-4b1f-9e1a-6d2e7fc6f8d7">
-   <img width="800" alt="스크린샷 2024-01-29 091334" src="https://github.com/engmung/BPIA/assets/122682380/e2423aa6-a8ab-40e9-b75d-5650a88cb0db">
+   <img width="800" alt="스크린샷 2024-01-29 091334" src="https://github.com/engmung/BPIA/assets/122682380/e2423aa6-a8ab-40e9-b75d-5650a88cb0db">  
    If the webcam turns on, it's working properly.
 
 5. Open the Blender file and execute the script inside.
