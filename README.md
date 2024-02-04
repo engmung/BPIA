@@ -25,23 +25,6 @@ Hello, my name is Lee Seunghun, and I am a student majoring in Visual Design at 
      2. Use Spotlight to open the terminal.
      3. Type `cd (paste your path)` in the terminal and press Enter. e.g., `cd /path/to/directory`.
      4. Type `pip3 install -r requirements.txt` in the terminal and press Enter.
-
-4. Run the `udp.py` script.
-   - In Windows:
-     1. Type `cmd` in the folder's address bar and press Enter to open a terminal in that location.
-     2. Type `python udp.py` in the terminal and press Enter.
-   - In Mac:
-     - Type `python3 udp.py` in the terminal and press Enter.
-         
-   ![스크린샷 2024-01-29 091155](https://github.com/engmung/BPIA/assets/122682380/1058e25d-c44f-4b1f-9e1a-6d2e7fc6f8d7)
-![스크린샷 2024-01-29 091334](https://github.com/engmung/BPIA/assets/122682380/e2423aa6-a8ab-40e9-b75d-5650a88cb0db)
-
-If the webcam turns on, it's working properly.
-
-
-5. Open the Blender file and execute the script inside.
-   Press the spacebar to activate the simulation node.
-   <img width="1281" alt="스크린샷 2024-01-29 210202" src="https://github.com/engmung/BPIA/assets/122682380/29fa8b3e-edf5-48bb-8f55-e3ff7a6621c9">
-
-
-.
+    
+4. Open the blender and run the script inside. Then click BPIA Start and double-click the Stop Intercept button to run it.
+    <img width="800" alt="스크린샷 2024-02-04 223056" src="https://github.com/engmung/BPIA/assets/122682380/892546d9-30d5-4977-8b37-c10bf5201ff7">
