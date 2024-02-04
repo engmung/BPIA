@@ -28,10 +28,3 @@ Hello, my name is Lee Seunghun, and I am a student majoring in Visual Design at 
     
 4. Open the blender and run the script inside. Then click BPIA Start and double-click the Stop Intercept button to run it.
     <img width="800" alt="스크린샷 2024-02-04 223056" src="https://github.com/engmung/BPIA/assets/122682380/892546d9-30d5-4977-8b37-c10bf5201ff7">
-
-5. Open the Blender file and execute the script inside.
-   Press the spacebar to activate the simulation node.
-   <img width="1281" alt="스크린샷 2024-01-29 210202" src="https://github.com/engmung/BPIA/assets/122682380/29fa8b3e-edf5-48bb-8f55-e3ff7a6621c9">
-
-
-.
