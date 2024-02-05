@@ -27,4 +27,5 @@ Hello, my name is Lee Seunghun, and I am a student majoring in Visual Design at 
      4. Type `pip3 install -r requirements.txt` in the terminal and press Enter.
     
 4. Open the blender and run the script inside. Then click BPIA Start and double-click the Stop Intercept button to run it.
-    <img width="800" alt="스크린샷 2024-02-04 223056" src="https://github.com/engmung/BPIA/assets/122682380/892546d9-30d5-4977-8b37-c10bf5201ff7">
+    <img width="800" alt="11111140" src="https://github.com/engmung/BPIA/assets/122682380/c4adddf5-642e-4746-b1e2-64342b12eea0">
+
