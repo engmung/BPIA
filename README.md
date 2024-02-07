@@ -66,14 +66,14 @@ Elevate your creativity with **BPIA**! We are excited to witness the transformat
 
 ### YouTube Tutorial
 
-in window,
+- in window,  
 <a href="https://youtu.be/wLlfYv4ct08" target="_blank">
-  <img src="http://img.youtube.com/vi/wLlfYv4ct08/0.jpg" alt="YouTube Video" width="1000"/>
+  <img src="http://img.youtube.com/vi/wLlfYv4ct08/0.jpg" alt="YouTube Video" width="800"/>
 </a>
 
-in mac,
-<a href="https://youtu.be/wLlfYv4ct08" target="_blank">
-  <img src="http://img.youtube.com/vi/wLlfYv4ct08/0.jpg" alt="YouTube Video" width="800" height="450"/>
+- in mac,  
+<a href="https://youtu.be/p9ihn507yKE" target="_blank">
+  <img src="http://img.youtube.com/vi/p9ihn507yKE/0.jpg" alt="YouTube Video" width="800"/>
 </a>
 
 ### Installation Steps
@@ -102,7 +102,7 @@ in mac,
 
 ## Usage
 <a href="https://youtu.be/7j2dAO9sBbY" target="_blank">
-  <img src="http://img.youtube.com/vi/7j2dAO9sBbY/0.jpg" alt="YouTube Video" width="800" height="450"/>
+  <img src="http://img.youtube.com/vi/7j2dAO9sBbY/0.jpg" alt="YouTube Video" width="800" />
 </a>
 
 ## Feedback
