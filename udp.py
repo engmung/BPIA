@@ -9,16 +9,22 @@ hands = mp_hands.Hands()
 mp_drawing = mp.solutions.drawing_utils
 
 def send_data_to_blender(hand_landmarks):
-    with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:
-        s.connect(('localhost', 9090))  # Blender가 수신 대기 중인 포트
-        for landmark in hand_landmarks:
-            # 0과 1 사이의 값을 -1과 1 사이로 변환
-            x = landmark.x * 2 - 1
-            y = landmark.y * 2 - 1
-            z = landmark.z * 2 - 1
-            # 이진 형식으로 데이터 패킹
-            data = struct.pack('fff', x, y, z)
-            s.sendall(data)
+    try:
+        with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:
+            s.connect(('localhost', 9090))  # Blender가 수신 대기 중인 포트
+            for landmark in hand_landmarks:
+                # 0과 1 사이의 값을 -1과 1 사이로 변환
+                x = landmark.x * 2 - 1
+                y = landmark.y * 2 - 1
+                z = landmark.z * 2 - 1
+                # 이진 형식으로 데이터 패킹
+                data = struct.pack('fff', x, y, z)
+                s.sendall(data)
+    except ConnectionRefusedError:
+        print("Connection refused. Blender may not be running or listening on the expected port.")
+    except Exception as e:
+        print(f"An unexpected error occurred: {e}")
+
 
 cap = cv2.VideoCapture(0)
 
