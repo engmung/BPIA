@@ -4,9 +4,10 @@
 - [Introduction](#introduction)
   - [EN](#en-bpia-addon-introduction)
   - [KO](#ko-bpia-애드온-소개)
-- [Usage](#usage)
+- [Install](#install)
   - [YouTube Tutorial](#youtube-tutorial)
   - [Installation Steps](#installation-steps)
+- [Usage](#usage)
 - [Feedback](#feedback)
 
 ## Introduction
@@ -61,9 +62,16 @@ Elevate your creativity with **BPIA**! We are excited to witness the transformat
 
 **BPIA**와 함께 창의력을 한층 끌어올려보세요! 여러분의 프로젝트가 더욱 다채롭고 생동감 넘치는 변화를 겪는 것을 기대합니다.
 
-## Usage
+## Install
 
 ### YouTube Tutorial
+
+in window,
+<a href="https://youtu.be/wLlfYv4ct08" target="_blank">
+  <img src="http://img.youtube.com/vi/wLlfYv4ct08/0.jpg" alt="YouTube Video" width="1000"/>
+</a>
+
+in mac,
 <a href="https://youtu.be/wLlfYv4ct08" target="_blank">
   <img src="http://img.youtube.com/vi/wLlfYv4ct08/0.jpg" alt="YouTube Video" width="800" height="450"/>
 </a>
@@ -85,7 +93,17 @@ Elevate your creativity with **BPIA**! We are excited to witness the transformat
      4. Type `pip3 install -r requirements.txt` in the terminal and press Enter.
     
 4. Open the blender and run the script inside. Then click BPIA Start and double-click the Stop Intercept button to run it.
-    <img width="800" alt="11111140" src="https://github.com/engmung/BPIA/assets/122682380/c4adddf5-642e-4746-b1e2-64342b12eea0">
+   - In Mac:
+     1. Select the BPIA-master folder in Finder and press `command+option+c` to copy the file path.
+     2. Use Spotlight to open the terminal.
+     3. Type `cd (paste your path)` in the terminal and press Enter. e.g., `cd /path/to/directory`.
+     4. Type `python3 udp.py` in the terminal and press Enter.
+   <img width="800" alt="11111140" src="https://github.com/engmung/BPIA/assets/122682380/c4adddf5-642e-4746-b1e2-64342b12eea0">
+
+## Usage
+<a href="https://youtu.be/7j2dAO9sBbY" target="_blank">
+  <img src="http://img.youtube.com/vi/7j2dAO9sBbY/0.jpg" alt="YouTube Video" width="800" height="450"/>
+</a>
 
 ## Feedback
 We value your feedback and experiences with **BPIA**. If you have used this addon in your projects, please share your use cases, thoughts, or any issues you encountered. Your input is crucial for us to improve and enhance **BPIA**. 
