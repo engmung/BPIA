@@ -101,15 +101,15 @@ Elevate your creativity with **BPIA**! We are excited to witness the transformat
    <img width="800" alt="11111140" src="https://github.com/engmung/BPIA/assets/122682380/c4adddf5-642e-4746-b1e2-64342b12eea0">
 
 ## Usage
-### Youtube Linke..!
+### Youtube Link..!
 <a href="https://youtu.be/7j2dAO9sBbY" target="_blank">
   <img src="http://img.youtube.com/vi/7j2dAO9sBbY/0.jpg" alt="YouTube Video" width="800" />
 </a>
 
 ## Feedback
-We value your feedback and experiences with **BPIA**. If you have used this addon in your projects, please share your use cases, thoughts, or any issues you encountered. Your input is crucial for us to improve and enhance **BPIA**. 
+I value your feedback and experiences with **BPIA**. If you have used this addon in your projects, please share your use cases, thoughts, or any issues you encountered. Your input is crucial for us to improve and enhance **BPIA**. 
 
 Send your feedback and use cases to: [lsh678902@gmail.com](mailto:lsh678902@gmail.com)
 
-We look forward to your creative projects and how **BPIA** has helped in transforming them into more colorful and vibrant creations.
+I look forward to your creative projects and how **BPIA** has helped in transforming them into more colorful and vibrant creations.
 
