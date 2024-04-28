@@ -8,7 +8,12 @@ mp_hands = mp.solutions.hands
 hands = mp_hands.Hands()
 mp_drawing = mp.solutions.drawing_utils
 
+# 댐핑을 위한 이전 좌표 초기화
+prev_x, prev_y, prev_z = 0, 0, 0
+alpha = 0.9  # 보간 팩터
+
 def send_data_to_blender(hand_landmarks):
+    global prev_x, prev_y, prev_z
     try:
         with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:
             s.connect(('localhost', 9090))  # Blender가 수신 대기 중인 포트
@@ -17,14 +22,22 @@ def send_data_to_blender(hand_landmarks):
                 x = landmark.x * 2 - 1
                 y = landmark.y * 2 - 1
                 z = landmark.z * 2 - 1
+                
+                # 현재 좌표와 이전 좌표 사이를 보간
+                smoothed_x = alpha * prev_x + (1 - alpha) * x
+                smoothed_y = alpha * prev_y + (1 - alpha) * y
+                smoothed_z = alpha * prev_z + (1 - alpha) * z
+
                 # 이진 형식으로 데이터 패킹
-                data = struct.pack('fff', x, y, z)
+                data = struct.pack('fff', smoothed_x, smoothed_y, smoothed_z)
                 s.sendall(data)
+
+                # 현재 좌표를 이전 좌표로 업데이트
+                prev_x, prev_y, prev_z = smoothed_x, smoothed_y, smoothed_z
     except ConnectionRefusedError:
         print("Connection refused. Blender may not be running or listening on the expected port.")
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
-
 
 cap = cv2.VideoCapture(0)
 
