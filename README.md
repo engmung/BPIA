@@ -58,7 +58,7 @@ Elevate your creativity with **BPIA**! We are excited to witness the transformat
 
 **BPIA**는 오픈 소스 프로젝트로서, 누구나 무료로 사용할 수 있습니다. 학생, 예술가, 개발자를 포함한 모든 사용자가 상업적 목적을 포함하여 자유롭게 사용할 수 있으며, 사용 사례를 공유해주시기만 하면 됩니다. 여러분의 프로젝트에서 **BPIA**를 사용하셨다면, 그 경험을 간단하게 정리해서 공유해주시기 바랍니다. 여러분의 소중한 피드백은 이 애드온을 더욱 개선하는 데 큰 도움이 됩니다.
 
-**사용료(공유해줘요)**: 프로젝트에서 **BPIA**를 사용하셨다면, 사용 사례를 다음 주소로 보내주세요: [lsh678902@gmail.com](mailto:lsh678902@gmail.com)
+**작업공유**: 프로젝트에서 **BPIA**를 사용하셨다면, 사용 사례를 다음 주소로 보내주세요: [lsh678902@gmail.com](mailto:lsh678902@gmail.com)
 
 ## Install
 
