@@ -10,7 +10,7 @@ mp_drawing = mp.solutions.drawing_utils
 
 # 댐핑을 위한 이전 좌표 초기화
 prev_x, prev_y, prev_z = 0, 0, 0
-alpha = 0.9  # 보간 팩터
+alpha = 0.8  # 보간 팩터
 
 def send_data_to_blender(hand_landmarks):
     global prev_x, prev_y, prev_z
