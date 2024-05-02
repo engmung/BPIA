@@ -1,3 +1,8 @@
+<a href="https://youtu.be/7j2dAO9sBbY" target="_blank">
+  <img src="https://youtu.be/exoPQJ5NAEI/0.jpg" alt="YouTube Video" width="800" />
+</a>
+
+
 # [EN] BPIA_HAND Addon Introduction
 
 **Notion Page**: [BPIA](https://yc2313.notion.site/BPIA-9d51d155828a4e2883c20509bc62116f?pvs=4)
