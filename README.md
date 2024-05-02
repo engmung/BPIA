@@ -1,5 +1,5 @@
 <a href="https://youtu.be/exoPQJ5NAEI" target="_blank">
-  <img src="https://youtu.be/exoPQJ5NAEI/0.jpg" alt="YouTube Video" width="800" />
+  <img src="https://img.youtube.com/vi/exoPQJ5NAEI/0.jpg" alt="YouTube Video" width=500" />
 </a>
 
 
