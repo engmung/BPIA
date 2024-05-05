@@ -60,6 +60,21 @@
 ![008](https://github.com/engmung/BPIA/assets/122682380/59df67e8-6bba-4e95-a6f9-4fcf86dd9f02)
 ![009](https://github.com/engmung/BPIA/assets/122682380/ceaaf269-b0ed-4f33-b9d4-74306c1d1d54)
 
+# Usage
+### 1.
+<a href="https://youtu.be/JfJJS4RToyU" target="_blank">
+  <img src="http://img.youtube.com/vi/JfJJS4RToyU/0.jpg" alt="YouTube Video" width="800" />
+</a>
+
+### 2.
+<a href="https://youtu.be/ZvVLF--zkH0" target="_blank">
+  <img src="http://img.youtube.com/vi/ZvVLF--zkH0/0.jpg" alt="YouTube Video" width="800" />
+</a>
+
+### 3.
+<a href="https://youtu.be/xaHwpGzRlGQ" target="_blank">
+  <img src="http://img.youtube.com/vi/xaHwpGzRlGQ/0.jpg" alt="YouTube Video" width="800" />
+</a>
 
 
 
@@ -104,25 +119,3 @@
      3. Type `cd (paste your path)` in the terminal and press Enter. e.g., `cd /path/to/directory`.
      4. Type `python3 udp.py` in the terminal and press Enter.
    <img width="800" alt="11111140" src="https://github.com/engmung/BPIA/assets/122682380/c4adddf5-642e-4746-b1e2-64342b12eea0">
-
-## Usage
-### 1.
-<a href="https://youtu.be/JfJJS4RToyU" target="_blank">
-  <img src="http://img.youtube.com/vi/JfJJS4RToyU/0.jpg" alt="YouTube Video" width="800" />
-</a>
-### 2.
-<a href="https://youtu.be/ZvVLF--zkH0" target="_blank">
-  <img src="http://img.youtube.com/vi/ZvVLF--zkH0/0.jpg" alt="YouTube Video" width="800" />
-</a>
-### 3.
-<a href="https://youtu.be/xaHwpGzRlGQ" target="_blank">
-  <img src="http://img.youtube.com/vi/xaHwpGzRlGQ/0.jpg" alt="YouTube Video" width="800" />
-</a>
-
-## Feedback
-I value your feedback and experiences with **BPIA**. If you have used this addon in your projects, please share your use cases, thoughts, or any issues you encountered. Your input is crucial for us to improve and enhance **BPIA**. 
-
-Send your feedback and use cases to: [lsh678902@gmail.com](mailto:lsh678902@gmail.com)
-
-I look forward to your creative projects and how **BPIA** has helped in transforming them into more colorful and vibrant creations.
-
