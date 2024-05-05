@@ -60,20 +60,22 @@
 ![008](https://github.com/engmung/BPIA/assets/122682380/59df67e8-6bba-4e95-a6f9-4fcf86dd9f02)
 ![009](https://github.com/engmung/BPIA/assets/122682380/ceaaf269-b0ed-4f33-b9d4-74306c1d1d54)
 
-# Usage
+
+
+# Usage(Youtube video)
 ### 1.
 <a href="https://youtu.be/JfJJS4RToyU" target="_blank">
-  <img src="http://img.youtube.com/vi/JfJJS4RToyU/0.jpg" alt="YouTube Video" width="800" />
+  <img src="http://img.youtube.com/vi/JfJJS4RToyU/0.jpg" alt="YouTube Video" width="300" />
 </a>
 
 ### 2.
 <a href="https://youtu.be/ZvVLF--zkH0" target="_blank">
-  <img src="http://img.youtube.com/vi/ZvVLF--zkH0/0.jpg" alt="YouTube Video" width="800" />
+  <img src="http://img.youtube.com/vi/ZvVLF--zkH0/0.jpg" alt="YouTube Video" width="300" />
 </a>
 
 ### 3.
 <a href="https://youtu.be/xaHwpGzRlGQ" target="_blank">
-  <img src="http://img.youtube.com/vi/xaHwpGzRlGQ/0.jpg" alt="YouTube Video" width="800" />
+  <img src="http://img.youtube.com/vi/xaHwpGzRlGQ/0.jpg" alt="YouTube Video" width="300" />
 </a>
 
 
@@ -88,12 +90,12 @@
 
 - in window,  
 <a href="https://youtu.be/wLlfYv4ct08" target="_blank">
-  <img src="http://img.youtube.com/vi/wLlfYv4ct08/0.jpg" alt="YouTube Video" width="800"/>
+  <img src="http://img.youtube.com/vi/wLlfYv4ct08/0.jpg" alt="YouTube Video" width="300"/>
 </a>
 
 - in mac,  
 <a href="https://youtu.be/p9ihn507yKE" target="_blank">
-  <img src="http://img.youtube.com/vi/p9ihn507yKE/0.jpg" alt="YouTube Video" width="800"/>
+  <img src="http://img.youtube.com/vi/p9ihn507yKE/0.jpg" alt="YouTube Video" width="300"/>
 </a>
 
 ### Installation Steps
