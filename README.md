@@ -1,5 +1,5 @@
 # Youtube Video
-<a href="https://youtu.be/exoPQJ5NAEI" target="_blank">
+<a href="https://youtu.be/SkeCr2sszrg" target="_blank">
   <img src="https://img.youtube.com/vi/exoPQJ5NAEI/0.jpg" alt="YouTube Video" width=500" />
 </a>
 
@@ -64,17 +64,17 @@
 
 # Usage(Youtube video)
 ### 1.
-<a href="https://youtu.be/JfJJS4RToyU" target="_blank">
+<a href="https://youtu.be/1rAmA-VIyxY" target="_blank">
   <img src="http://img.youtube.com/vi/JfJJS4RToyU/0.jpg" alt="YouTube Video" width="300" />
 </a>
 
 ### 2.
-<a href="https://youtu.be/ZvVLF--zkH0" target="_blank">
+<a href="https://youtu.be/Ux-o7YqXU7U" target="_blank">
   <img src="http://img.youtube.com/vi/ZvVLF--zkH0/0.jpg" alt="YouTube Video" width="300" />
 </a>
 
 ### 3.
-<a href="https://youtu.be/xaHwpGzRlGQ" target="_blank">
+<a href="https://youtu.be/yfvQhp-hDp0" target="_blank">
   <img src="http://img.youtube.com/vi/xaHwpGzRlGQ/0.jpg" alt="YouTube Video" width="300" />
 </a>
 
@@ -94,7 +94,7 @@
 </a>
 
 - in mac,  
-<a href="https://youtu.be/p9ihn507yKE" target="_blank">
+<a href="https://youtu.be/s7zIdciNMhI" target="_blank">
   <img src="http://img.youtube.com/vi/p9ihn507yKE/0.jpg" alt="YouTube Video" width="300"/>
 </a>
 
